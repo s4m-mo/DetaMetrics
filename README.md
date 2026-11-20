@@ -1,3 +1,5 @@
+> This was a simple TensorBoard alternative. However, the hosting platform used for communication (Deta Space) has since shut down. This is now archived and will not work.
+
 # DetaMetrics
 Display live metrics from a ML notebook using a Deta Space app.
 
